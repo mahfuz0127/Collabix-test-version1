@@ -1,0 +1,2 @@
+# Collabix-test-version1
+Collabix (v1.0-test) | A Strategic Matchmaking Platform for Professionals  This repository contains the initial build and functional prototype of Collabix, a platform designed to bridge the gap between talent and opportunity. The current iteration focuses on core matchmaking logic, user profiling, and seamless connection workflows. This version serves as a testing ground for UI/UX concepts and backend scalability.
